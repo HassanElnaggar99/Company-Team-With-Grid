@@ -6,5 +6,4 @@ Required layout:
 [challenge link](https://elzero.org/frontend-company-team-with-grid/)
 
 [Live Demo](https://hassanelnaggar99.github.io/Company-Team-With-Grid/) :point_left:
-
-
+ 
